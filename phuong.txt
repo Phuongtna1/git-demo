@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /*1*/
 select *
 from tblEmployee E,tblDepartment D
@@ -38,3 +39,6 @@ go
 select *
 from tblEmployee E,tblDepartment D
 where  e.depNum=d.depNum and d.depName like N'Phòng Phần mềm trong nước' 
+=======
+phuong
+>>>>>>> 15bc95c9a51a53b96c1401b346d9f0db51c8b380
